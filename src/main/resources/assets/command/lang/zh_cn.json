@@ -1,0 +1,14 @@
+{
+  "command.reflect.clearvars.feedback": "已清除所有变量",
+  "command.reflect.assign.assign_null": "null不是一个变量，不能被赋值",
+  "command.reflect.assign.feedback": "成功将%s赋给%s",
+  "command.reflect.temp_not_field": "TEMP不是字段",
+  "command.reflect.got": "字段(%s)的值(%s)已获取",
+  "command.reflect.got_field": "字段(%s)已获取",
+  "command.reflect.got_method": "方法或构造器(%s)已获取",
+  "command.reflect.temp_not_method_or_constructor": "TEMP不是方法或构造器",
+  "command.reflect.invoked": "方法或构造器(%s)已调用，返回(%s)",
+  "command.reflect.literal.feedback": "该字面量解析为%s",
+  "command.reflect.print.feedback": "%s : %s",
+  "command.reflect.no_such_var": "没有%s这个变量"
+}

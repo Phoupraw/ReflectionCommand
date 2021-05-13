@@ -1,0 +1,14 @@
+{
+  "command.reflect.clearvars.feedback": "All variables are cleared",
+  "command.reflect.assign.assign_null": "null is not a variable and can't be assigned",
+  "command.reflect.assign.feedback": "Assigned %s to %s",
+  "command.reflect.temp_not_field": "TEMP is not a field",
+  "command.reflect.got": "Got the value (%2$s) of the field (%2$s)",
+  "command.reflect.got_field": "Got the filed (%s)",
+  "command.reflect.got_method": "Got the method or constructor (%s)",
+  "command.reflect.temp_not_method_or_constructor": "TEMP is not a method or constructor",
+  "command.reflect.invoked": "The method or constructor (%s) is invoked and returned (%s)",
+  "command.reflect.literal.feedback": "The literal is parsed as %s",
+  "command.reflect.print.feedback": "%s : %s",
+  "command.reflect.no_such_var": "There is no variable called %s"
+}
